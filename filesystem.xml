@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<filesystem>
+	<folder name="bin" user="root" group="root" filesize="4096" mode="rwxr-xr-x" date="">
+		<file name="bash" user="root" group="root" filesize="926536" mode="-rwxr-xr-x" date="10. Apr 2010"></file>
+		<file name="busybox" user="root" group="root" filesize="516440" mode="-rwxr-xr-x" date="15. Nov 2010"></file>
+		<file name="cat" user="root" group="root" filesize="52288" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="chgrp" user="root" group="root" filesize="56336" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="chmod" user="root" group="root" filesize="52192" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="chown" user="root" group="root" filesize="57744" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="chvt" user="root" group="root" filesize="6744" mode="-rwxr-xr-x" date="8. Dez 2010"></file>
+		<file name="cp" user="root" group="root" filesize="118432" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="cpio" user="root" group="root" filesize="133680" mode="-rwxr-xr-x" date="29. Apr 2010"></file>
+		<file name="dash" user="root" group="root" filesize="104168" mode="-rwxr-xr-x" date="14. Dez 2010"></file>
+		<file name="date" user="root" group="root" filesize="60416" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="dd" user="root" group="root" filesize="53240" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="df" user="root" group="root" filesize="68776" mode="-rwxr-xr-x" date="28. Apr 2010">
+Dateisystem          1K-Blöcke   Benutzt Verfügbar Ben% Eingehängt auf
+/dev/vda1             14801380   1073696  12975812   8% /
+tmpfs                   513496         0    513496   0% /lib/init/rw
+udev                    508644       140    508504   1% /dev
+tmpfs                   513496         0    513496   0% /dev/shm
+		</file>
+		<file name="dir" user="root" group="root" filesize="108008" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="dmesg" user="root" group="root" filesize="6736" mode="-rwxr-xr-x" date="25. Jan 2011"></file>
+		<file name="dnsdomainname" user="root" group="root" filesize="15128" mode="-rwxr-xr-x" date="22. Mär 2010"></file>
+		<file name="domainname" user="root" group="root" filesize="15128" mode="-rwxr-xr-x" date="22. Mär 2010"></file>
+		<file name="dumpkeys" user="root" group="root" filesize="78536" mode="-rwxr-xr-x" date="8. Dez 2010"></file>
+		<file name="echo" user="root" group="root" filesize="24032" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="egrep" user="root" group="root" filesize="115928" mode="-rwxr-xr-x" date="22. Apr 2010"></file>
+		<file name="false" user="root" group="root" filesize="20752" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="fgconsole" user="root" group="root" filesize="7376" mode="-rwxr-xr-x" date="8. Dez 2010"></file>
+		<file name="fgrep" user="root" group="root" filesize="77304" mode="-rwxr-xr-x" date="22. Apr 2010"></file>
+		<file name="grep" user="root" group="root" filesize="119288" mode="-rwxr-xr-x" date="22. Apr 2010"></file>
+		<file name="gunzip" user="root" group="root" filesize="63" mode="-rwxr-xr-x" date="9. Jan 2013"></file>
+		<file name="gzexe" user="root" group="root" filesize="5874" mode="-rwxr-xr-x" date="9. Jan 2013"></file>
+		<file name="gzip" user="root" group="root" filesize="64592" mode="-rwxr-xr-x" date="9. Jan 2013"></file>
+		<file name="hostname" user="root" group="root" filesize="15128" mode="-rwxr-xr-x" date="22. Mär 2010">
+			www01-master
+		</file>
+		<file name="ip" user="root" group="root" filesize="229296" mode="-rwxr-xr-x" date="6. Jul 2010"></file>
+		<file name="kbd_mode" user="root" group="root" filesize="7848" mode="-rwxr-xr-x" date="8. Dez 2010"></file>
+		<file name="kill" user="root" group="root" filesize="16248" mode="-rwxr-xr-x" date="16. Feb 2012"></file>
+		<file name="less" user="root" group="root" filesize="145792" mode="-rwxr-xr-x" date="29. Jul 2009"></file>
+		<file name="lessecho" user="root" group="root" filesize="7376" mode="-rwxr-xr-x" date="29. Jul 2009"></file>
+		<file name="lessfile" user="root" group="root" filesize="8" mode="lrwxrwxrwx" date="4. Sep 12:10"></file>
+		<file name="lesskey" user="root" group="root" filesize="16232" mode="-rwxr-xr-x" date="29. Jul 2009"></file>
+		<file name="lesspipe" user="root" group="root" filesize="6947" mode="-rwxr-xr-x" date="29. Jul 2009"></file>
+		<file name="ln" user="root" group="root" filesize="48920" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="loadkeys" user="root" group="root" filesize="107832" mode="-rwxr-xr-x" date="8. Dez 2010"></file>
+		<file name="login" user="root" group="root" filesize="45384" mode="-rwxr-xr-x" date="15. Feb 2011"></file>
+		<file name="ls" user="root" group="root" filesize="108008" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="lsmod" user="root" group="root" filesize="5904" mode="-rwxr-xr-x" date="30. Okt 2011"></file>
+		<file name="mkdir" user="root" group="root" filesize="48864" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="mknod" user="root" group="root" filesize="32576" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="mktemp" user="root" group="root" filesize="37984" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="more" user="root" group="root" filesize="35912" mode="-rwxr-xr-x" date="25. Jan 2011"></file>
+		<file name="mount" user="root" group="root" filesize="78616" mode="-rwsr-xr-x" date="25. Jan 2011"></file>
+		<file name="mountpoint" user="root" group="root" filesize="6720" mode="-rwxr-xr-x" date="27. Mär 2012"></file>
+		<file name="mt" user="root" group="root" filesize="20" mode="lrwxrwxrwx" date="29. Jul 12:40"></file>
+		<file name="mt-gnu" user="root" group="root" filesize="66184" mode="-rwxr-xr-x" date="29. Apr 2010"></file>
+		<file name="mv" user="root" group="root" filesize="110120" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="nano" user="root" group="root" filesize="188328" mode="-rwxr-xr-x" date="15. Apr 2010"></file>
+		<file name="nc" user="root" group="root" filesize="20" mode="lrwxrwxrwx" date="29. Jul 12:41"></file>
+		<file name="nc.traditional" user="root" group="root" filesize="23992" mode="-rwxr-xr-x" date="19. Jun 2008"></file>
+		<file name="netcat" user="root" group="root" filesize="24" mode="lrwxrwxrwx" date="29. Jul 12:41"></file>
+		<file name="netstat" user="root" group="root" filesize="120496" mode="-rwxr-xr-x" date="16. Mär 2009"></file>
+		<file name="nisdomainname" user="root" group="root" filesize="15128" mode="-rwxr-xr-x" date="22. Mär 2010"></file>
+		<file name="open" user="root" group="root" filesize="6" mode="lrwxrwxrwx" date="29. Jul 12:41"></file>
+		<file name="openvt" user="root" group="root" filesize="12856" mode="-rwxr-xr-x" date="8. Dez 2010"></file>
+		<file name="pidof" user="root" group="root" filesize="14" mode="lrwxrwxrwx" date="29. Jul 12:41"></file>
+		<file name="ping" user="root" group="root" filesize="34248" mode="-rwsr-xr-x" date="14. Okt 2010"></file>
+		<file name="ping6" user="root" group="root" filesize="36640" mode="-rwsr-xr-x" date="14. Okt 2010"></file>
+		<file name="ps" user="root" group="root" filesize="99040" mode="-rwxr-xr-x" date="16. Feb 2012">
+PID  TTY          TIME CMD
+185  pts/0    00:00:00 bash
+113  pts/0    00:00:00 ps
+		</file>
+		<file name="pwd" user="root" group="root" filesize="31968" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="rbash" user="root" group="root" filesize="4" mode="lrwxrwxrwx" date="29. Jul 12:41"></file>
+		<file name="readlink" user="root" group="root" filesize="39872" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="rm" user="root" group="root" filesize="56848" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="rmdir" user="root" group="root" filesize="41120" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="sed" user="root" group="root" filesize="65472" mode="-rwxr-xr-x" date="17. Apr 2010"></file>
+		<file name="sh" user="root" group="root" filesize="4" mode="lrwxrwxrwx" date="29. Jul 12:41"></file>
+		<file name="sleep" user="root" group="root" filesize="28592" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="stty" user="root" group="root" filesize="65296" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="su" user="root" group="root" filesize="34024" mode="-rwsr-xr-x" date="15. Feb 2011"></file>
+		<file name="sync" user="root" group="root" filesize="27456" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="tailf" user="root" group="root" filesize="8488" mode="-rwxr-xr-x" date="25. Jan 2011"></file>
+		<file name="tar" user="root" group="root" filesize="361336" mode="-rwxr-xr-x" date="22. Sep 2010"></file>
+		<file name="tempfile" user="root" group="root" filesize="7752" mode="-rwxr-xr-x" date="16. Jul 2010"></file>
+		<file name="touch" user="root" group="root" filesize="52224" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="true" user="root" group="root" filesize="20752" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="umount" user="root" group="root" filesize="53648" mode="-rwsr-xr-x" date="25. Jan 2011"></file>
+		<file name="uname" user="root" group="root" filesize="28496" mode="-rwxr-xr-x" date="28. Apr 2010">
+			Linux www01-master 2.6.32-5-amd64 #1 SMP Fri May 10 08:43:19 UTC 2013 x86_64 GNU/Linux
+		</file>
+		<file name="uncompress" user="root" group="root" filesize="63" mode="-rwxr-xr-x" date="9. Jan 2013"></file>
+		<file name="unicode_start" user="root" group="root" filesize="2762" mode="-rwxr-xr-x" date="8. Dez 2010"></file>
+		<file name="vdir" user="root" group="root" filesize="108008" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		<file name="which" user="root" group="root" filesize="946" mode="-rwxr-xr-x" date="16. Jul 2010"></file>
+	</folder>
+	<folder name="etc">
+		<file name="passwd" user="root" group="root" filesize="4096" mode="-wxr-xr-x" date="">
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/bin/sh
+bin:x:2:2:bin:/bin:/bin/sh
+sys:x:3:3:sys:/dev:/bin/sh
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/bin/sh
+man:x:6:12:man:/var/cache/man:/bin/sh
+lp:x:7:7:lp:/var/spool/lpd:/bin/sh
+mail:x:8:8:mail:/var/mail:/bin/sh
+news:x:9:9:news:/var/spool/news:/bin/sh
+uucp:x:10:10:uucp:/var/spool/uucp:/bin/sh
+proxy:x:13:13:proxy:/bin:/bin/sh
+www-data:x:33:33:www-data:/var/www:/bin/sh
+backup:x:34:34:backup:/var/backups:/bin/sh
+list:x:38:38:Mailing List Manager:/var/list:/bin/sh
+irc:x:39:39:ircd:/var/run/ircd:/bin/sh
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/bin/sh
+nobody:x:65534:65534:nobody:/nonexistent:/bin/sh
+libuuid:x:100:101::/var/lib/libuuid:/bin/sh
+sshd:x:101:65534::/var/run/sshd:/usr/sbin/nologin
+clamav:x:102:104::/var/lib/clamav:/bin/false
+bind:x:103:105::/var/cache/bind:/bin/false
+		</file>
+		<file name="shadow" user="root" group="root" filesize="4096" mode="-wxr-xr-x" date="">
+root:$jhkfdhsjkf0rhuifg546899hsfhksdf928sd546fskjhf:15952:0:99999:7:::
+daemon:*:15915:0:99999:7:::
+bin:*:15915:0:99999:7:::
+sys:*:15915:0:99999:7:::
+sync:*:15915:0:99999:7:::
+games:*:15915:0:99999:7:::
+man:*:15915:0:99999:7:::
+lp:*:15915:0:99999:7:::
+mail:*:15915:0:99999:7:::
+news:*:15915:0:99999:7:::
+uucp:*:15915:0:99999:7:::
+proxy:*:15915:0:99999:7:::
+www-data:*:15915:0:99999:7:::
+backup:*:15915:0:99999:7:::
+list:*:15915:0:99999:7:::
+irc:*:15915:0:99999:7:::
+gnats:*:15915:0:99999:7:::
+nobody:*:15915:0:99999:7:::
+libuuid:!:15915:0:99999:7:::
+sshd:*:15915:0:99999:7:::
+clamav:!:15952:0:99999:7:::
+bind:*:15952:0:99999:7:::
+postgres:*:15952:0:99999:7:::
+		</file>
+	</folder>
+	<folder name="lib" user="root" group="root" filesize="12288" mode="rwxr-xr-x" date=""></folder>
+	<folder name="media" user="root" group="root" filesize="4096" mode="rwxr-xr-x" date=""></folder>
+	<folder name="proc" user="root" group="root" filesize="0" mode="rwxr-xr-x" date=""></folder>
+	<folder name="selinux" user="root" group="root" filesize="4096" mode="rwxr-xr-x" date=""></folder>
+	<folder name="sys" user="root" group="root" filesize="0" mode="rwxr-xr-x" date=""></folder>
+	<folder name="var" user="root" group="root" filesize="4096" mode="rwxr-xr-x" date=""></folder>
+	<folder name="boot" user="root" group="root" filesize="4096" mode="rwxr-xr-x" date=""></folder>
+	<folder name="home">
+		<folder name="artur" user="root" group="root" filesize="4096" mode="rwxr-xr-x" date=""></folder>
+	</folder>
+	<folder name="lib64" user="root" group="root" filesize="4" mode="rwxr-xr-x" date=""></folder>
+	<folder name="mnt" user="root" group="root" filesize="4096" mode="rwxr-xr-x" date=""></folder>
+	<folder name="root" user="root" group="root" filesize="4096" mode="rwxr-xr-x" date="">
+		<folder name="scripts" user="root" group="root" filesize="4096" mode="rwxr-xr-x" date=""></folder>
+		<folder name="backup" user="root" group="root" filesize="4096" mode="rwxr-xr-x" date=""></folder>
+		<folder name="sshkeys" user="root" group="root" filesize="4096" mode="rwxr-xr-x" date=""></folder>
+	</folder>
+	<folder name="share" user="root" group="root" filesize="4096" mode="rwxr-xr-x" date=""></folder>
+	<folder name="tmp" user="root" group="root" filesize="4096" mode="rwxrwxrwx" date=""></folder>
+	<folder name="vmlinuz" user="root" group="root" filesize="27" mode="rwxr-xr-x" date=""></folder>
+	<folder name="dev" user="root" group="root" filesize="3120" mode="rwxr-xr-x" date=""></folder>
+	<folder name="initrd.img" user="root" group="root" filesize="30" mode="rwxr-xr-x" date=""></folder>
+	<folder name="lost+found" user="root" group="root" filesize="16384" mode="rwxr-xr-x" date=""></folder>
+	<folder name="opt" user="root" group="root" filesize="4096" mode="rwxr-xr-x" date=""></folder>
+	<folder name="sbin" user="root" group="root" filesize="4096" mode="rwxr-xr-x" date=""></folder>
+	<folder name="srv" user="root" group="root" filesize="4096" mode="rwxr-xr-x" date=""></folder>
+	<folder name="usr" user="root" group="root" filesize="4096" mode="rwxr-xr-x" date="">
+		<folder name="bin" user="root" group="root" filesize="4096" mode="rwxr-xr-x" date="">
+			<file name="free" user="root" group="root" filesize="8648" mode="-rwxr-xr-x" date="28. Apr 2010">
+total       used       free     shared    buffers     cached
+Mem:       1026996     203632     823364          0      29252     129392
+-/+ buffers/cache:      44988     982008
+Swap:       688120          0          0
+			</file>
+			<file name="fdisk" user="root" group="root" filesize="95728" mode="-rwxr-xr-x" date="28. Apr 2010">
+Disk /dev/vda: 16.1 GB, 16106127360 bytes
+255 heads, 63 sectors/track, 1958 cylinders
+Units = cylinders of 16065 * 512 = 8225280 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x000daf37
+
+   Device Boot      Start         End      Blocks   Id  System
+/dev/vda1   *           1        1873    15037440   83  Linux
+/dev/vda2            1873        1958      688129    5  Extended
+/dev/vda5            1873        1958      688128   82  Linux swap / Solaris
+			</file>
+			<file name="shutdown" user="root" group="root" filesize="23696" mode="-rwxr-xr-x" date="28. Apr 2010">
+				The system is going down for halt NOW!rap (pts/0) (Tue Sep 10 13:04:29 2013
+			</file>
+			<file name="halt" user="root" group="root" filesize="15184" mode="-rwxr-xr-x" date="28. Apr 2010">
+				The system is going down for halt NOW!rap (pts/0) (Tue Sep 10 13:04:29 2013
+			</file>
+			<file name="reboot" user="root" group="root" filesize="15184" mode="-rwxr-xr-x" date="28. Apr 2010">
+				The system is going down for reboot NOW!rap (pts/0) (Tue Sep 10 13:04:29 2013
+			</file>
+			<file name="top" user="root" group="root" filesize="78832" mode="-rwxr-xr-x" date="28. Apr 2010"></file>
+		</folder>
+	</folder>
+</filesystem>
